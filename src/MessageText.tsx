@@ -8,7 +8,9 @@ import {
   StyleProp,
   ViewStyle,
   TextStyle,
+  Text,
 } from 'react-native'
+import HTMLView from 'react-native-htmlview'
 
 // @ts-ignore
 import ParsedText from 'react-native-parsed-text'
